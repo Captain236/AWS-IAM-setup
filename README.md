@@ -4,6 +4,7 @@
 - **IAM stnds for identity and access management that help us to securely control the aws resources. It allows us to manage users , groups , roles and permissions to define who can access what within your aws environment.**
 
 # Features of IAM
+
 **🔐 1. User Management
 You can create, manage, and delete users in your system.
 👉 Example: Making accounts for team members in AWS.**
@@ -34,3 +35,31 @@ Adds an extra layer of security using mobile OTP or other devices.
 - **(2) Create group**
 - **(3) Add user to a specific group***
 - **(3) Assign permission to a group**
+
+# Let's Begin
+
+## Step 1
+- **(1) :- Search for IAM (Manage Access to AWS resource**
+![1](https://github.com/user-attachments/assets/0e238e51-7878-42ee-8f51-db5bee45f4e5)
+
+- **(2) :- Click on Users**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
